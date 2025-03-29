@@ -1,2 +1,2 @@
 # ReCom
-Trying out how to make a recommendation system
+Making a Recommendation system using Boltzman Machine
